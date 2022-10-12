@@ -12,7 +12,7 @@
 <div class="main">
     <div class="aside">aside</div>
     <div class="content">
-		Hello, slab nahyun
+		Hello, slab 
 		<button onClick="location.href='/login'">네이버 로그인</button>
 	</div>
 </div>
